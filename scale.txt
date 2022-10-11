@@ -1,0 +1,4 @@
+let bigIcon    = "scale(1.4) translateY(-1.5vw)"
+let middleIcon = "scale(1.2) translateY(-1vw)"
+let smallIcon  = "scale(1.1) translateY(-0.5vw)"
+let normalIcon = "scale(1) translateY(0)"
